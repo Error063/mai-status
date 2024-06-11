@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://img.picui.cn/free/2024/06/11/66684d36eee0c.png
   name: 今天舞萌痴们能不能玩舞萌DX
   introTitle: "今天舞萌痴们能不能玩舞萌DX"
-  introMessage: 
+  introMessage: 当前页面使用GitHub Actions对舞萌DX各个API涉及到的服务器进行访问测试，所有结果仅供参考
   navbar:
     - title: 状态
       href: /
