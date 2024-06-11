@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maimai-gm.wahlap.com.ico",
     "slug": "",
     "status": "down",
-    "uptime": "80.86%",
-    "uptimeDay": "80.86%",
-    "uptimeWeek": "80.86%",
-    "uptimeMonth": "80.86%",
-    "uptimeYear": "80.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1266,
     "timeDay": 1266,
     "timeWeek": 1266,
     "timeMonth": 1266,
     "timeYear": 1266,
-    "dailyMinutesDown": {
-      "2024-06-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "会员服务器",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/at.sys-all.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "81.05%",
-    "uptimeDay": "81.05%",
-    "uptimeWeek": "81.05%",
-    "uptimeMonth": "81.05%",
-    "uptimeYear": "81.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1266,
     "timeDay": 1266,
     "timeWeek": 1266,
     "timeMonth": 1266,
     "timeYear": 1266,
-    "dailyMinutesDown": {
-      "2024-06-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Net认证",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.sys-all.cn.ico",
     "slug": "net",
     "status": "up",
-    "uptime": "79.21%",
-    "uptimeDay": "79.21%",
-    "uptimeWeek": "79.21%",
-    "uptimeMonth": "79.21%",
-    "uptimeYear": "79.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1620,
     "timeDay": 1620,
     "timeWeek": 1620,
     "timeMonth": 1620,
     "timeYear": 1620,
-    "dailyMinutesDown": {
-      "2024-06-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "玩家二维码",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wq.sys-all.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "81.30%",
-    "uptimeDay": "81.30%",
-    "uptimeWeek": "81.30%",
-    "uptimeMonth": "81.30%",
-    "uptimeYear": "81.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1266,
     "timeDay": 1266,
     "timeWeek": 1266,
     "timeMonth": 1266,
     "timeYear": 1266,
-    "dailyMinutesDown": {
-      "2024-06-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "舞萌Net",
@@ -85,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
     "slug": "net",
     "status": "up",
-    "uptime": "79.53%",
-    "uptimeDay": "79.53%",
-    "uptimeWeek": "79.53%",
-    "uptimeMonth": "79.53%",
-    "uptimeYear": "79.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1620,
     "timeDay": 1620,
     "timeWeek": 1620,
     "timeMonth": 1620,
     "timeYear": 1620,
-    "dailyMinutesDown": {
-      "2024-06-11": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
