@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
     "slug": "net-maimai-dx-net-server",
     "status": "down",
-    "uptime": "82.08%",
-    "uptimeDay": "82.08%",
-    "uptimeWeek": "82.08%",
-    "uptimeMonth": "82.08%",
-    "uptimeYear": "82.08%",
+    "uptime": "80.16%",
+    "uptimeDay": "80.16%",
+    "uptimeWeek": "80.16%",
+    "uptimeMonth": "80.16%",
+    "uptimeYear": "80.16%",
     "time": 1791,
     "timeDay": 1791,
     "timeWeek": 1791,
     "timeMonth": 1791,
     "timeYear": 1791,
     "dailyMinutesDown": {
-      "2024-06-11": 85
+      "2024-06-11": 97
     }
   }
 ]
