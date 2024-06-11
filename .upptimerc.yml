@@ -28,12 +28,13 @@ status-website:
   cname: mai-status.wahleak.tech
   # baseUrl: /your-repo-name
   logoUrl: https://img.picui.cn/free/2024/06/11/66684d36eee0c.png
-  name: 今天舞萌痴们能不能玩舞萌DX
-  introTitle: "今天舞萌痴们能不能玩舞萌DX"
+  name: 舞萌痴们今天能不能玩舞萌DX
+  introTitle: "舞萌痴们今天能不能玩舞萌DX"
   introMessage: 当前页面使用GitHub Actions对舞萌DX各个API涉及到的服务器进行访问测试，所有结果仅供参考
   navbar:
     - title: 状态
       href: /
+  favicon: https://img.picui.cn/free/2024/06/11/66684d36eee0c.png
 
 workflowSchedule:
   graphs: "*/5 * * * *"
@@ -46,7 +47,7 @@ workflowSchedule:
 
 i18n:
   activeIncidents: 活动事件
-  allSystemsOperational: 所有系统都可以正常运行
+  allSystemsOperational: 都没似
   incidentReport: "事件 #$NUMBER 报告 →"
   activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个帖子
   incidentTitle: 事件 $NUMBER 的详细信息
@@ -104,7 +105,7 @@ i18n:
   uptime: "正常运行时间"
   up: "🟩 没似"
   degraded: "🟨 快似了"
-  down: "🟥 你怎么似了"
+  down: "🟥 似了"
   responseTimeGraphAlt: "响应时间图像"
   responseTimeDay: "24 小时响应时间"
   responseTimeWeek: "7 天正常运行时间"
