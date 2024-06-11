@@ -1,7 +1,7 @@
 # Change these first
 owner: Error063 # Your GitHub organization or username, where this repository lives
 repo: mai-status # The name of this repository
-githubUserContentBaseUrl: "https://raw.gitmirror.com"
+
 sites:
   - name: 标题服务器 (Title Server)
     check: "tcp-ping"
@@ -35,6 +35,8 @@ status-website:
     - title: 状态
       href: /
   favicon: https://img.picui.cn/free/2024/06/11/66684d36eee0c.png
+  userContentBaseUrl: https://raw.gitmirror.com
+  githubUserContentBaseUrl: "https://raw.gitmirror.com"
 
 workflowSchedule:
   graphs: "*/5 * * * *"
