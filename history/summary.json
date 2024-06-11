@@ -1,0 +1,102 @@
+[
+  {
+    "name": "标题服务器",
+    "url": "https://maimai-gm.wahlap.com:42081",
+    "icon": "https://icons.duckduckgo.com/ip3/maimai-gm.wahlap.com.ico",
+    "slug": "",
+    "status": "down",
+    "uptime": "80.86%",
+    "uptimeDay": "80.86%",
+    "uptimeWeek": "80.86%",
+    "uptimeMonth": "80.86%",
+    "uptimeYear": "80.86%",
+    "time": 1266,
+    "timeDay": 1266,
+    "timeWeek": 1266,
+    "timeMonth": 1266,
+    "timeYear": 1266,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
+  },
+  {
+    "name": "会员服务器",
+    "url": "http://at.sys-all.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/at.sys-all.cn.ico",
+    "slug": "",
+    "status": "down",
+    "uptime": "81.05%",
+    "uptimeDay": "81.05%",
+    "uptimeWeek": "81.05%",
+    "uptimeMonth": "81.05%",
+    "uptimeYear": "81.05%",
+    "time": 1266,
+    "timeDay": 1266,
+    "timeWeek": 1266,
+    "timeMonth": 1266,
+    "timeYear": 1266,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
+  },
+  {
+    "name": "Net认证",
+    "url": "http://ai.sys-all.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/ai.sys-all.cn.ico",
+    "slug": "net",
+    "status": "up",
+    "uptime": "79.21%",
+    "uptimeDay": "79.21%",
+    "uptimeWeek": "79.21%",
+    "uptimeMonth": "79.21%",
+    "uptimeYear": "79.21%",
+    "time": 1620,
+    "timeDay": 1620,
+    "timeWeek": 1620,
+    "timeMonth": 1620,
+    "timeYear": 1620,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
+  },
+  {
+    "name": "玩家二维码",
+    "url": "https://wq.sys-all.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/wq.sys-all.cn.ico",
+    "slug": "",
+    "status": "down",
+    "uptime": "81.30%",
+    "uptimeDay": "81.30%",
+    "uptimeWeek": "81.30%",
+    "uptimeMonth": "81.30%",
+    "uptimeYear": "81.30%",
+    "time": 1266,
+    "timeDay": 1266,
+    "timeWeek": 1266,
+    "timeMonth": 1266,
+    "timeYear": 1266,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
+  },
+  {
+    "name": "舞萌Net",
+    "url": "https://maimai.wahlap.com",
+    "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
+    "slug": "net",
+    "status": "up",
+    "uptime": "79.53%",
+    "uptimeDay": "79.53%",
+    "uptimeWeek": "79.53%",
+    "uptimeMonth": "79.53%",
+    "uptimeYear": "79.53%",
+    "time": 1620,
+    "timeDay": 1620,
+    "timeWeek": 1620,
+    "timeMonth": 1620,
+    "timeYear": 1620,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
+  }
+]
