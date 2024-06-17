@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "net-all-net-authentication-server",
     "status": "down",
-    "uptime": "92.93%",
-    "uptimeDay": "58.33%",
-    "uptimeWeek": "92.93%",
-    "uptimeMonth": "92.93%",
-    "uptimeYear": "92.93%",
+    "uptime": "92.81%",
+    "uptimeDay": "57.53%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "92.81%",
     "time": 241,
     "timeDay": 233,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-06-17": 600
+      "2024-06-17": 612
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "player-qr-code-server",
     "status": "down",
-    "uptime": "92.95%",
-    "uptimeDay": "58.41%",
-    "uptimeWeek": "92.95%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "92.95%",
+    "uptime": "92.82%",
+    "uptimeDay": "57.61%",
+    "uptimeWeek": "92.82%",
+    "uptimeMonth": "92.82%",
+    "uptimeYear": "92.82%",
     "time": 235,
     "timeDay": 231,
     "timeWeek": 235,
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-06-17": 599
+      "2024-06-17": 610
     }
   },
   {
@@ -81,13 +81,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
     "slug": "net-maimai-dx-net-server",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.51%",
     "uptimeDay": "86.73%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "87.49%",
-    "uptimeYear": "87.49%",
+    "uptimeWeek": "87.51%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "87.51%",
     "time": 1732,
-    "timeDay": 1603,
+    "timeDay": 1604,
     "timeWeek": 1732,
     "timeMonth": 1732,
     "timeYear": 1732,
