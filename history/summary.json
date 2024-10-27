@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-10-27": 586,
+      "2024-10-27": 598,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-10-27": 587,
+      "2024-10-27": 598,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -441,8 +441,8 @@
     "uptimeMonth": "87.37%",
     "uptimeYear": "91.00%",
     "time": 1837,
-    "timeDay": 1933,
-    "timeWeek": 1795,
+    "timeDay": 1927,
+    "timeWeek": 1790,
     "timeMonth": 1859,
     "timeYear": 1837,
     "dailyMinutesDown": {
