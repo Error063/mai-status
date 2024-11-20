@@ -11,7 +11,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.63%",
     "time": 252,
-    "timeDay": 244,
+    "timeDay": 243,
     "timeWeek": 256,
     "timeMonth": 249,
     "timeYear": 252,
@@ -31,7 +31,7 @@
     "uptime": "40.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.57%",
+    "uptimeMonth": "53.52%",
     "uptimeYear": "40.16%",
     "time": 253,
     "timeDay": 0,
@@ -39,7 +39,7 @@
     "timeMonth": 246,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-11-20": 1193,
+      "2024-11-20": 1213,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -158,7 +158,7 @@
     "timeMonth": 0,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-11-20": 1193,
+      "2024-11-20": 1214,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-11-20": 1194,
+      "2024-11-20": 1214,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -498,18 +498,19 @@
     "url": "https://maimai.wahlap.com",
     "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
     "slug": "net-maimai-dx-net-server",
-    "status": "up",
-    "uptime": "92.35%",
-    "uptimeDay": "87.18%",
-    "uptimeWeek": "87.28%",
-    "uptimeMonth": "87.14%",
-    "uptimeYear": "92.35%",
+    "status": "down",
+    "uptime": "92.42%",
+    "uptimeDay": "87.24%",
+    "uptimeWeek": "87.29%",
+    "uptimeMonth": "87.16%",
+    "uptimeYear": "92.42%",
     "time": 1814,
-    "timeDay": 1663,
+    "timeDay": 1664,
     "timeWeek": 1750,
     "timeMonth": 1725,
     "timeYear": 1814,
     "dailyMinutesDown": {
+      "2024-11-20": 2,
       "2024-11-19": 185,
       "2024-11-18": 180,
       "2024-11-17": 182,
@@ -608,8 +609,7 @@
       "2024-08-16": 180,
       "2024-08-15": 182,
       "2024-08-14": 171,
-      "2024-08-13": 179,
-      "2024-08-12": 175
+      "2024-08-13": 179
     }
   }
 ]
