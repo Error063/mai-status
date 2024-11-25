@@ -11,7 +11,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.64%",
     "time": 252,
-    "timeDay": 253,
+    "timeDay": 252,
     "timeWeek": 250,
     "timeMonth": 249,
     "timeYear": 252,
@@ -31,7 +31,7 @@
     "uptime": "38.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.15%",
+    "uptimeMonth": "37.08%",
     "uptimeYear": "38.96%",
     "time": 253,
     "timeDay": 0,
@@ -39,7 +39,7 @@
     "timeMonth": 245,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-11-25": 1183,
+      "2024-11-25": 1214,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -163,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-11-25": 1184,
+      "2024-11-25": 1214,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-11-25": 1184,
+      "2024-11-25": 1215,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -513,18 +513,19 @@
     "url": "https://maimai.wahlap.com",
     "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
     "slug": "net-maimai-dx-net-server",
-    "status": "up",
-    "uptime": "92.57%",
-    "uptimeDay": "87.62%",
-    "uptimeWeek": "87.34%",
-    "uptimeMonth": "87.24%",
-    "uptimeYear": "92.57%",
+    "status": "down",
+    "uptime": "92.64%",
+    "uptimeDay": "87.83%",
+    "uptimeWeek": "87.39%",
+    "uptimeMonth": "87.23%",
+    "uptimeYear": "92.64%",
     "time": 1815,
-    "timeDay": 1646,
-    "timeWeek": 1782,
-    "timeMonth": 1749,
+    "timeDay": 1633,
+    "timeWeek": 1781,
+    "timeMonth": 1748,
     "timeYear": 1815,
     "dailyMinutesDown": {
+      "2024-11-25": 2,
       "2024-11-24": 178,
       "2024-11-23": 182,
       "2024-11-22": 183,
@@ -623,8 +624,7 @@
       "2024-08-21": 181,
       "2024-08-20": 180,
       "2024-08-19": 170,
-      "2024-08-18": 183,
-      "2024-08-17": 165
+      "2024-08-18": 183
     }
   }
 ]
