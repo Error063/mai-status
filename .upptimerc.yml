@@ -106,7 +106,7 @@ i18n:
   responseTime: "响应时间"
   uptime: "正常运行时间"
   up: "🟩 没似"
-  degraded: "🟨 快似了"
+  degraded: "🟨 萎了"
   down: "🟥 似了"
   responseTimeGraphAlt: "响应时间图像"
   responseTimeDay: "24 小时响应时间"
@@ -118,7 +118,7 @@ i18n:
   uptimeMonth: "30天的正常运行时间"
   uptimeYear: "1年的正常运行时间"
   liveStatusHtmlComment: "<！ -实时状态- >"
-  degradedPerformance: "🟨 性能降低"
+  degradedPerformance: "🟨 萎了"
   completeOutage: "🟥 全似了"
   partialOutage: "🟧 部分似了"
 
