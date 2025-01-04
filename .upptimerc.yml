@@ -9,15 +9,15 @@ sites:
     port: 42081
   - name: 会员服务器 (ChimeDB Server)
     check: "tcp-ping"
-    url: at.sys-all.cn
+    url: at.sys-allnet.cn
     port: 80
   - name: Net认证 (ALL.Net Authentication Server)
     check: "tcp-ping"
-    url: ai.sys-all.cn
+    url: ai.sys-allnet.cn
     port: 80
   - name: 玩家二维码 (Player QR Code Server)
     check: "tcp-ping"
-    url: wq.sys-all.cn
+    url: wq.sys-allnet.cn
     port: 80
   - name: 舞萌Net (maimai DX Net Server)
     url: https://maimai.wahlap.com
