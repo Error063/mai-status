@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 252,
-    "timeDay": 250,
+    "timeDay": 251,
     "timeWeek": 246,
     "timeMonth": 251,
     "timeYear": 252,
@@ -31,7 +31,7 @@
     "uptime": "34.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.91%",
+    "uptimeMonth": "34.93%",
     "uptimeYear": "34.99%",
     "time": 252,
     "timeDay": 255,
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-01-15": 1193,
+      "2025-01-15": 1203,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -435,7 +435,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-01-15": 1194,
+      "2025-01-15": 1203,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -655,18 +655,19 @@
     "url": "https://maimai.wahlap.com",
     "icon": "https://icons.duckduckgo.com/ip3/maimai.wahlap.com.ico",
     "slug": "net-maimai-dx-net-server",
-    "status": "up",
-    "uptime": "94.32%",
-    "uptimeDay": "88.21%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "87.52%",
-    "uptimeYear": "94.32%",
+    "status": "down",
+    "uptime": "94.37%",
+    "uptimeDay": "87.95%",
+    "uptimeWeek": "87.34%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "94.37%",
     "time": 1806,
-    "timeDay": 1916,
-    "timeWeek": 1732,
+    "timeDay": 1908,
+    "timeWeek": 1730,
     "timeMonth": 1722,
     "timeYear": 1806,
     "dailyMinutesDown": {
+      "2025-01-15": 4,
       "2025-01-14": 170,
       "2025-01-13": 180,
       "2025-01-12": 179,
@@ -765,8 +766,7 @@
       "2024-10-11": 180,
       "2024-10-10": 179,
       "2024-10-09": 178,
-      "2024-10-08": 180,
-      "2024-10-07": 161
+      "2024-10-08": 180
     }
   }
 ]
