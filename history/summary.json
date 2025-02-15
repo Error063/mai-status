@@ -203,7 +203,7 @@
     "timeMonth": 274,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-02-15": 410,
+      "2025-02-15": 430,
       "2025-02-14": 989,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -456,7 +456,7 @@
     "slug": "player-qr-code-server",
     "status": "down",
     "uptime": "4.07%",
-    "uptimeDay": "25.80%",
+    "uptimeDay": "24.39%",
     "uptimeWeek": "32.76%",
     "uptimeMonth": "5.63%",
     "uptimeYear": "4.07%",
@@ -466,7 +466,7 @@
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-02-15": 486,
+      "2025-02-15": 506,
       "2025-02-14": 1013,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -725,7 +725,7 @@
     "time": 1804,
     "timeDay": 1770,
     "timeWeek": 1812,
-    "timeMonth": 1795,
+    "timeMonth": 1793,
     "timeYear": 1804,
     "dailyMinutesDown": {
       "2025-02-14": 146,
