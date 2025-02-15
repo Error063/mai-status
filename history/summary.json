@@ -193,7 +193,7 @@
     "slug": "net-all-net-authentication-server",
     "status": "down",
     "uptime": "3.26%",
-    "uptimeDay": "9.99%",
+    "uptimeDay": "9.14%",
     "uptimeWeek": "7.41%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "3.26%",
@@ -203,7 +203,7 @@
     "timeMonth": 274,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-02-15": 1296,
+      "2025-02-15": 1308,
       "2025-02-14": 989,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -466,7 +466,7 @@
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-02-15": 1372,
+      "2025-02-15": 1384,
       "2025-02-14": 1013,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -724,7 +724,7 @@
     "uptimeYear": "94.90%",
     "time": 1804,
     "timeDay": 1833,
-    "timeWeek": 1823,
+    "timeWeek": 1825,
     "timeMonth": 1793,
     "timeYear": 1804,
     "dailyMinutesDown": {
