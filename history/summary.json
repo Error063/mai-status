@@ -203,7 +203,7 @@
     "timeMonth": 274,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-02-16": 895,
+      "2025-02-16": 920,
       "2025-02-15": 1315,
       "2025-02-14": 989,
       "2025-02-13": 1440,
@@ -458,7 +458,7 @@
     "status": "down",
     "uptime": "4.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.32%",
+    "uptimeWeek": "30.07%",
     "uptimeMonth": "5.63%",
     "uptimeYear": "4.05%",
     "time": 238,
@@ -467,7 +467,7 @@
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-02-16": 899,
+      "2025-02-16": 924,
       "2025-02-15": 1390,
       "2025-02-14": 1013,
       "2025-02-13": 1440,
@@ -726,7 +726,7 @@
     "uptimeYear": "94.92%",
     "time": 1805,
     "timeDay": 1933,
-    "timeWeek": 1861,
+    "timeWeek": 1860,
     "timeMonth": 1797,
     "timeYear": 1805,
     "dailyMinutesDown": {
