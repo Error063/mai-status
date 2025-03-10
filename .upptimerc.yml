@@ -8,12 +8,10 @@ sites:
     url: maimai-gm.wahlap.com
     port: 42081
   - name: 会员服务器 (ChimeDB Server)
-    check: "tcp-ping"
-    url: at.sys-allnet.cn
-    port: 80
+    url: http://ai.sys-allnet.cn/wc_aime/api/alive_check
   - name: Net认证 (ALL.Net Authentication Server)
     check: "tcp-ping"
-    url: ai.sys-allnet.cn
+    url: at.sys-allnet.cn
     port: 80
   - name: 玩家二维码 (Player QR Code Server)
     check: "tcp-ping"
